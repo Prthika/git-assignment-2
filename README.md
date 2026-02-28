@@ -20,9 +20,9 @@ cd git-assignment-2
 1. Create a new branch named `writing`:
 git checkout -b writing
 
-2. Check which branch you are on: \
+2. Check which branch you're on: \
 git status \
-It should say you are on branch `writing`.
+It should say you're on branch `writing`.
 
 3. Push this branch to GitHub: \
 git push -u origin writing
@@ -93,7 +93,7 @@ Submit a link to your fork of this repository on Google Classroom.
 
 ## Optional Challenge (Fix a Typo Using a Branch)
 
-This part is optional, but recommended if you finish early.
+This part is optional, but is recommended if you finish early.
 
 1. Make sure you are on the `main` branch: \
 git status \
